@@ -56,7 +56,7 @@
   },
   {
     "id": 6,
-    "img": "/src/assets/images/food.png",
+    "img": "https://i.ibb.co.com/KmPWjNX/food.png",
     "category": "food",
     "name": "Meals for the Hungry",
     "description": "Join our campaign to provide nutritious meals to those who are struggling with food insecurity. Your support can help us stock food pantries and deliver meals to families in need.",
@@ -89,7 +89,7 @@
   },
   {
     "id": 9,
-    "img": "/src/assets/images/food.png",
+    "img": "https://i.ibb.co.com/KmPWjNX/food.png",
     "category": "food",
     "name": "Community Food Bank",
     "description": "Support our community food bank, which provides essential groceries to families facing financial difficulties. Your donation helps keep our shelves stocked and our doors open.",
@@ -111,7 +111,7 @@
   },
   {
     "id": 11,
-    "img": "/src/assets/images/food.png",
+    "img": "https://i.ibb.co.com/KmPWjNX/food.png",
     "category": "food",
     "name": "Holiday Meal Programs",
     "description": "Support our holiday meal programs, which provide festive meals to families who might otherwise go without during the holiday season. Your donation brings joy and nourishment to those in need.",
