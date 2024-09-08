@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "img": "/src/assets/images/health.png",
+    "img": "https://i.ibb.co.com/D46frLX/health.png",
     "category": "health",
     "name": "Healthcare for All",
     "description": "Support our efforts to provide healthcare services to underserved communities. Your donation can help us fund medical supplies, clinics, and outreach programs.",
@@ -12,7 +12,7 @@
   },
   {
     "id": 2,
-    "img": "/src/assets/images/education.png",
+    "img": "https://i.ibb.co.com/rmc6NwB/education.png",
     "category": "education",
     "name": "Good Education",
     "description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
@@ -23,7 +23,7 @@
   },
   {
     "id": 3,
-    "img": "/src/assets/images/health.png",
+    "img": "https://i.ibb.co.com/D46frLX/health.png",
     "category": "health",
     "name": "Mental Health Support",
     "description": "Contribute to our initiatives aimed at providing mental health services, including counseling and support groups, to individuals facing mental health challenges.",
@@ -34,7 +34,7 @@
   },
   {
     "id": 4,
-    "img": "/src/assets/images/health.png",
+    "img": "https://i.ibb.co.com/D46frLX/health.png",
     "category": "health",
     "name": "Vaccination Drives",
     "description": "Join us in our efforts to organize vaccination drives, ensuring that everyone has access to life-saving vaccines. Your support can help us reach more people and save lives.",
@@ -45,7 +45,7 @@
   },
   {
     "id": 5,
-    "img": "/src/assets/images/clothing.png",
+    "img": "https://i.ibb.co.com/BLc1hRz/clothing.png",
     "category": "clothing",
     "name": "Warm Clothes for Winter",
     "description": "Help us provide warm clothing to those in need during the winter months. Your donation can help us distribute coats, hats, gloves, and scarves to individuals and families who cannot afford them.",
@@ -67,7 +67,7 @@
   },
   {
     "id": 7,
-    "img": "/src/assets/images/education.png",
+    "img": "https://i.ibb.co.com/rmc6NwB/education.png",
     "category": "education",
     "name": "Scholarships for Students",
     "description": "Your donation can help provide scholarships to students from low-income families, giving them the opportunity to pursue higher education and achieve their dreams.",
@@ -78,7 +78,7 @@
   },
   {
     "id": 8,
-    "img": "/src/assets/images/clothing.png",
+    "img": "https://i.ibb.co.com/BLc1hRz/clothing.png",
     "category": "clothing",
     "name": "School Uniforms for Kids",
     "description": "Help us supply school uniforms to children in need, ensuring they have the proper attire to attend school with confidence and focus on their education.",
@@ -100,7 +100,7 @@
   },
   {
     "id": 10,
-    "img": "/src/assets/images/education.png",
+    "img": "https://i.ibb.co.com/rmc6NwB/education.png",
     "category": "education",
     "name": "Books for Libraries",
     "description": "Help us stock local libraries with a diverse range of books, providing children and adults with access to educational resources and the joy of reading.",
@@ -122,7 +122,7 @@
   },
   {
     "id": 12,
-    "img": "/src/assets/images/clothing.png",
+    "img": "https://i.ibb.co.com/BLc1hRz/clothing.png",
     "category": "clothing",
     "name": "Clothing for Disaster Relief",
     "description": "Your donation can help provide clothing to people affected by natural disasters. We distribute essential garments to those who have lost everything in the wake of a disaster.",

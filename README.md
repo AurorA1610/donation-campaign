@@ -1,8 +1,11 @@
-# React + Vite
+# Donation Campaign
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Tech Stack
 
-Currently, two official plugins are available:
+- **Frontend-framework**: Vite React
+- **Styling**: Tailwind CSS, Daisy UI, Animate CSS
+- **Routing**: React Router DOM
+- **Notifications**: React-Toastify (used in the `/donation-details` route)
+- **Charts**: Recharts (used on the `/stats` page for displaying a pie chart)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Visit the live website: [donation-campaign-2024.netlify.app](https://donation-campaign-2024.netlify.app/)
