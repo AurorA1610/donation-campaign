@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "img": "/src/assets/images/health.png",
+    "category": "health",
+    "name": "Healthcare for All",
+    "description": "Support our efforts to provide healthcare services to underserved communities. Your donation can help us fund medical supplies, clinics, and outreach programs.",
+    "price": 500.0,
+    "bgColor": "#d9e5ff",
+    "categoryBgColor": "#aec8ff",
+    "textColor": "#0052ff"
+  },
+  {
+    "id": 2,
+    "img": "/src/assets/images/education.png",
+    "category": "education",
+    "name": "Good Education",
+    "description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
+    "price": 290.0,
+    "bgColor": "#ffe3e4",
+    "categoryBgColor": "#ffc3c5",
+    "textColor": "#ff444a"
+  },
+  {
+    "id": 3,
+    "img": "/src/assets/images/health.png",
+    "category": "health",
+    "name": "Mental Health Support",
+    "description": "Contribute to our initiatives aimed at providing mental health services, including counseling and support groups, to individuals facing mental health challenges.",
+    "price": 400.0,
+    "bgColor": "#d9e5ff",
+    "categoryBgColor": "#aec8ff",
+    "textColor": "#0052ff"
+  },
+  {
+    "id": 4,
+    "img": "/src/assets/images/health.png",
+    "category": "health",
+    "name": "Vaccination Drives",
+    "description": "Join us in our efforts to organize vaccination drives, ensuring that everyone has access to life-saving vaccines. Your support can help us reach more people and save lives.",
+    "price": 600.0,
+    "bgColor": "#d9e5ff",
+    "categoryBgColor": "#aec8ff",
+    "textColor": "#0052ff"
+  },
+  {
+    "id": 5,
+    "img": "/src/assets/images/clothing.png",
+    "category": "clothing",
+    "name": "Warm Clothes for Winter",
+    "description": "Help us provide warm clothing to those in need during the winter months. Your donation can help us distribute coats, hats, gloves, and scarves to individuals and families who cannot afford them.",
+    "price": 150.0,
+    "bgColor": "#ebf6e2",
+    "categoryBgColor": "#d4ecc1",
+    "textColor": "#79c23f"
+  },
+  {
+    "id": 6,
+    "img": "/src/assets/images/food.png",
+    "category": "food",
+    "name": "Meals for the Hungry",
+    "description": "Join our campaign to provide nutritious meals to those who are struggling with food insecurity. Your support can help us stock food pantries and deliver meals to families in need.",
+    "price": 100.0,
+    "bgColor": "#feeae3",
+    "categoryBgColor": "#fdd2c4",
+    "textColor": "#f87147"
+  },
+  {
+    "id": 7,
+    "img": "/src/assets/images/education.png",
+    "category": "education",
+    "name": "Scholarships for Students",
+    "description": "Your donation can help provide scholarships to students from low-income families, giving them the opportunity to pursue higher education and achieve their dreams.",
+    "price": 350.0,
+    "bgColor": "#ffe3e4",
+    "categoryBgColor": "#ffc3c5",
+    "textColor": "#ff444a"
+  },
+  {
+    "id": 8,
+    "img": "/src/assets/images/clothing.png",
+    "category": "clothing",
+    "name": "School Uniforms for Kids",
+    "description": "Help us supply school uniforms to children in need, ensuring they have the proper attire to attend school with confidence and focus on their education.",
+    "price": 80.0,
+    "bgColor": "#ebf6e2",
+    "categoryBgColor": "#d4ecc1",
+    "textColor": "#79c23f"
+  },
+  {
+    "id": 9,
+    "img": "/src/assets/images/food.png",
+    "category": "food",
+    "name": "Community Food Bank",
+    "description": "Support our community food bank, which provides essential groceries to families facing financial difficulties. Your donation helps keep our shelves stocked and our doors open.",
+    "price": 200.0,
+    "bgColor": "#feeae3",
+    "categoryBgColor": "#fdd2c4",
+    "textColor": "#f87147"
+  },
+  {
+    "id": 10,
+    "img": "/src/assets/images/education.png",
+    "category": "education",
+    "name": "Books for Libraries",
+    "description": "Help us stock local libraries with a diverse range of books, providing children and adults with access to educational resources and the joy of reading.",
+    "price": 120.0,
+    "bgColor": "#ffe3e4",
+    "categoryBgColor": "#ffc3c5",
+    "textColor": "#ff444a"
+  },
+  {
+    "id": 11,
+    "img": "/src/assets/images/food.png",
+    "category": "food",
+    "name": "Holiday Meal Programs",
+    "description": "Support our holiday meal programs, which provide festive meals to families who might otherwise go without during the holiday season. Your donation brings joy and nourishment to those in need.",
+    "price": 180.0,
+    "bgColor": "#feeae3",
+    "categoryBgColor": "#fdd2c4",
+    "textColor": "#f87147"
+  },
+  {
+    "id": 12,
+    "img": "/src/assets/images/clothing.png",
+    "category": "clothing",
+    "name": "Clothing for Disaster Relief",
+    "description": "Your donation can help provide clothing to people affected by natural disasters. We distribute essential garments to those who have lost everything in the wake of a disaster.",
+    "price": 250.0,
+    "bgColor": "#ebf6e2",
+    "categoryBgColor": "#d4ecc1",
+    "textColor": "#79c23f"
+  }
+]

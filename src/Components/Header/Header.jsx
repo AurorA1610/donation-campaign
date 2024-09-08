@@ -1,0 +1,59 @@
+import { NavLink } from "react-router-dom";
+import logo from "../../assets/Logo.png";
+
+const routes = (
+  <>
+    <li>
+      <NavLink to="/" className="text-lg text-zinc-950">
+        Home
+      </NavLink>
+    </li>
+    <li>
+      <NavLink to="/donation" className="text-lg text-zinc-950">
+        Donation
+      </NavLink>
+    </li>
+    <li>
+      <NavLink to="/stats" className="text-lg text-zinc-950">
+        Statistics
+      </NavLink>
+    </li>
+  </>
+);
+const Header = () => {
+  return (
+    <div className="navbar bg-base-100">
+      <div className="navbar-start w-full">
+        <details className="dropdown">
+          <summary className="btn btn-ghost lg:hidden">
+            <svg
+              xmlns="http://www.w3.org/2000/svg"
+              className="h-5 w-5"
+              fill="none"
+              viewBox="0 0 24 24"
+              stroke="currentColor"
+            >
+              <path
+                strokeLinecap="round"
+                strokeLinejoin="round"
+                strokeWidth="2"
+                d="M4 6h16M4 12h8m-8 6h16"
+              />
+            </svg>
+          </summary>
+          <ul className="menu menu-sm dropdown-content mt-3 z-[1] p-2 shadow bg-base-100 rounded-box w-52">
+            {routes}
+          </ul>
+        </details>
+        <NavLink to="/">
+          <img src={logo} alt="" className="w-3/4 mx-auto md:mx-0" />
+        </NavLink>
+      </div>
+      <div className="navbar-end hidden lg:flex">
+        <ul className="menu menu-horizontal px-1">{routes}</ul>
+      </div>
+    </div>
+  );
+};
+
+export default Header;
